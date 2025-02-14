@@ -5,7 +5,7 @@ using google gemini models.
 
 Below is a brief overview of each function and an explanation of how its code works:
 
----
+> [Function Calling Tutorial Link](https://ai.google.dev/gemini-api/docs/function-calling/tutorial?lang=python)
 
 ### Tool & Model Setup Functions
 
